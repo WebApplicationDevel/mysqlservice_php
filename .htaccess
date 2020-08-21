@@ -1,0 +1,26 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+#禁止显示目录
+<Files *>
+Options -Indexes
+</Files>
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteCond $1 !^(demo)
+RewriteRule ^index\.html$ index\.html [L]
+RewriteRule ^(.*)\.html$ index.php?c=$1 [L]
+#伪静态访问
+RewriteRule ^(.*)/(.*)\.html$ index.php?m=$1&c=$2 [L]
+RewriteRule ^article/(.*)\.html$ index.php?m=article&c=show&id=$1 [L]
+
+RewriteRule ^wap/(.*)/(.*)\.html$ index.php?t=1&m=$1&c=$2 [L]
+RewriteRule ^admin/(.*)/(.*)\.html$ index.php?t=2&m=$1&c=$2 [L]
+
+#出错页面
+ErrorDocument 404 404.html
+</IfModule>
+

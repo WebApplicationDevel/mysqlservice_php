@@ -1,0 +1,17 @@
+2018-03-14 04:47:38pm    /Library/WebServer/Documents/SmartyPhp/app/web/abc/controller/indexController.php FILE NOT EXISTS !!
+2018-03-14 04:47:41pm    /Library/WebServer/Documents/SmartyPhp/app/web/abc/controller/indexController.php FILE NOT EXISTS !!
+2018-03-14 04:47:59pm    /Library/WebServer/Documents/SmartyPhp/app/web/abc/controller/indexController.php FILE NOT EXISTS !!
+2018-03-14 04:51:37pm    /Library/WebServer/Documents/SmartyPhp/app/web/abc/controller/indexController.php FILE NOT EXISTS !!
+2018-03-14 04:52:40pm    /Library/WebServer/Documents/SmartyPhp/app/web/abc/controller/indexController.php FILE NOT EXISTS !!
+2018-03-14 04:54:20pm    /Library/WebServer/Documents/SmartyPhp/app/web/app/web/home/tpl/controller/indexController.php FILE NOT EXISTS !!
+2018-03-14 05:09:04pm    /Library/WebServer/Documents/SmartyPhp/app/web/home/controller/errorController.php FILE NOT EXISTS !!
+2018-03-14 05:10:45pm    /Library/WebServer/Documents/SmartyPhp/app/web/home/controller/app/web/home/tpl/indexController.php FILE NOT EXISTS !!
+2018-03-14 09:12:44pm    /Library/WebServer/Documents/SmartyPhp/app/web/home/controller/abc/indexController.php FILE NOT EXISTS !!
+2018-03-14 10:23:02pm    /Library/WebServer/Documents/SmartyPhp/app/wap/home/controller/indexController.php FILE NOT EXISTS !!
+2018-03-14 10:39:06pm    /Library/WebServer/Documents/SmartyPhp/app/web/home/controller/indexController.php->indexAction METHOD NOT EXISTS !!
+2018-03-14 10:42:10pm    /Library/WebServer/Documents/SmartyPhp/app/web/home/controller/indexController.php->indexAction METHOD NOT EXISTS !!
+2018-03-14 10:45:01pm    Unable to load template 'file:smartyphp\core\Base.html'
+2018-03-14 10:45:29pm    Unable to load template 'file:app\web\home\controller\login.html'
+2018-03-14 10:49:14pm    Unable to load template 'file:app\web\home\controller\login.html'
+2018-03-14 11:24:13pm    /Library/WebServer/Documents/SmartyPhp/app/web/home/controller/welcomeController.php FILE NOT EXISTS !!
+2018-03-14 11:26:12pm    /Library/WebServer/Documents/SmartyPhp/app/web/home/controller/productController.php FILE NOT EXISTS !!
